@@ -16,17 +16,17 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Api Key',
+	'https://zenzapis.xyz': 'V12',
 }
 
 // Other
-global.owner = ['6281356484612']
-global.ownernomer = "6281356484612"
-global.premium = ['6281356484612']
+global.owner = ['6282324344519']
+global.ownernomer = "6282324344519"
+global.premium = ['6282324344519']
 global.packname = '𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝑩𝒚'
-global.ownername = "𝑫𝒂𝒏𝒕𝒂 𝑫𝒆𝒗"
-global.author = '𝑫𝒂𝒏𝒕𝒂 𝑫𝒆𝒗'
-global.sessionName = 'dantadev'  //jangan di ubah nanti error
+global.ownername = "Rilzz 𝑫𝒆𝒗"
+global.author = 'Rilzz 𝑫𝒆𝒗'
+global.sessionName = 'session'  //jangan di ubah nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
